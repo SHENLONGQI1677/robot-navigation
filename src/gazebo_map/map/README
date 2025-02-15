@@ -1,0 +1,2 @@
+地图保存命令：
+rosrun map_server map_saver -f mapname
