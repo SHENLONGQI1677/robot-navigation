@@ -1,1 +1,1 @@
-his is a ros program for simulating navigation
+This is a ros program for simulating navigation
